@@ -15,7 +15,7 @@ CB·06·ZZ is the current series where the new series began in June 2011.
 
 To see how to use this tool, run `python qa2sent.py` and modify its inputs and outputs.
 
-Most of the codes come from (robinjia/adversarial-squad)[https://github.com/robinjia/adversarial-squad).
+Most of the codes come from [robinjia/adversarial-squad](https://github.com/robinjia/adversarial-squad).
 
 ### Dependencies
 
